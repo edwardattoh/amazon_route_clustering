@@ -1,0 +1,3 @@
+cluster,route_count,number_of_stops,number_of_packages,total_planned_service_time_seconds,average_stop_latitude,average_stop_longitude,geographic_spread_km,average_package_volume_cm3,vehicle_capacity_cm3,most_common_route_score
+0,167,162.48,242.84,14750.14,41.75,-82.89,1.56,11713.18,3928580.94,Medium
+1,333,142.08,238.49,16531.89,37.64,-116.05,0.91,10708.13,3450573.53,Medium
