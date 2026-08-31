@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+venv/
+
+# PyCharm settings
+.idea/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Downloaded Amazon dataset
+data/*
+!data/.gitkeep
+
+# Generated output files
+outputs/*
+!outputs/.gitkeep
+
+# Saved machine-learning models
+models/*
+!models/.gitkeep
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+``
