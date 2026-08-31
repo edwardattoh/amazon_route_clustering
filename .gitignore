@@ -1,4 +1,4 @@
-# Python virtual environment
+# Python virtual environments
 .venv/
 venv/
 
@@ -9,13 +9,9 @@ venv/
 __pycache__/
 *.py[cod]
 
-# Downloaded Amazon dataset
+# Downloaded Amazon source dataset
 data/*
 !data/.gitkeep
-
-# Generated output files
-outputs/*
-!outputs/.gitkeep
 
 # Saved machine-learning models
 models/*
@@ -24,4 +20,3 @@ models/*
 # Operating-system files
 .DS_Store
 Thumbs.db
-``
